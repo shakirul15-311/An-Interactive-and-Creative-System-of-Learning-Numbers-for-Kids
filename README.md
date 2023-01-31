@@ -1,2 +1,6 @@
 # An-Interactive-and-Creative-System-of-Learning-Numbers-for-Kids
 An Interactive and Creative System of Learning Numbers for Kids
+
+This assignment project aims to develop an interactive system that uses computer vision and electronics to teach Numbers to Preschool and Kindergarten kids through a fun and engaging project. The system uses an Arduino board and OpenCV to detect the number of fingers raised in front of the camera and blink an equivalent number of LED lights, providing an educational and hands-on experience for kids.
+
+This system is a valuable tool for teachers in a creative learning environment, as it provides an engaging and interactive way for kids to learn about numbers. By using computer vision and electronics, the system helps to capture the attention of kids and make learning about numbers fun and memorable. As kids see the LEDs blink in response to the number of fingers they raise, they develop a deeper understanding of the concepts of numbers and counting. The project-based approach also encourages kids to think creatively, explore new ideas and develop problem-solving skills. This makes the system an asset for teachers looking to create a dynamic and interactive learning environment for kids.
